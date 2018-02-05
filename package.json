@@ -9,7 +9,10 @@
   "author": "Noyan Alperen İDİN",
   "license": "ISC",
   "dependencies": {
+    "es6-module-loader": "^0.17.11",
     "express": "^4.10.2",
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.3.0",
+    "systemjs": "^0.20.19",
+    "traceur": "0.0.111"
   }
 }
