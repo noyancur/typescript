@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Play area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noyan Alperen İDİN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "lite-server": "^2.3.0"
+  }
+}
